@@ -1506,7 +1506,7 @@ body {
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(15 103 177 / var(--tw-bg-opacity));
+  background-color: rgb(63 162 246 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-primary\/90:hover {
