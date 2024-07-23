@@ -1,4 +1,4 @@
-# Welcome to Webcademy Project
+# Welcome to IEGWEBCADEMY Project
 
 <h3>Tech Stack :</h3>
 
