@@ -1,13 +1,13 @@
-import React from 'react'
+import React from "react";
 
 function Logo() {
   return (
     <div className="flex p-2 items-center justify-center">
-        <a href="/" className="text-primary text-2xl uppercase font-bold">
-            WEBCADEMY
-        </a>
+      <a href="/" className="text-primary text-2xl uppercase font-bold">
+        IEGWEBCADEMY
+      </a>
     </div>
-  )
+  );
 }
 
-export default Logo
+export default Logo;
