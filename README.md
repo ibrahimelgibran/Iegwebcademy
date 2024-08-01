@@ -1,4 +1,4 @@
-# Welcome to Webcademy Project
+# Welcome to IegWebcademy Project
 
 <h3>Tech Stack :</h3>
 
@@ -53,4 +53,3 @@ npm run dev
 <h3>Open in your local browser :</h3>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
